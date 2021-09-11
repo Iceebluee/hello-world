@@ -3,5 +3,5 @@ the first repository
 
 Hello!
 
-I'm funcuni, this is my first repository.
+I'm Iceebluee, this is my first repository.
 I like C and C++.
